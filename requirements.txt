@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+paho-mqtt
+supabase
+python-dotenv
+loguru
+ngrok
+pydantic
+httpx
